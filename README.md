@@ -164,22 +164,3 @@ A control-room / systems-dashboard themed portfolio — React Three Fiber 3D sce
 - 📋 **General Management Head**, Aminova '24
 
 <br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DhruvOswal&show_icons=true&theme=default&hide_border=true&bg_color=0B0E14&title_color=F2B85C&icon_color=5EEAD4&text_color=ffffff" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvOswal&layout=compact&hide_border=true&bg_color=0B0E14&title_color=F2B85C&text_color=ffffff" width="40%"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💌 Let's Connect
-
-If you're working on fintech, AI systems, or just want to talk product — my inbox is open.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:0B0E14&height=100&section=footer" width="100%"/>
-
-</div>
